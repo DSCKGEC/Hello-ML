@@ -5,3 +5,4 @@
 3. Naive Bayes
 4. Support Vector Machine
 5. Decision Trees
+6. SGD Classifier
